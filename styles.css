@@ -41,6 +41,29 @@ section {
     padding: 50px 20px;
     text-align: center;
 }
+h1 {
+    color: black;
+    font-style: italic;
+    font-family: serif;
+}
+.p_one{
+    color:black;
+    font-family: cursive;
+    font-size: larger;
+}
+h3 {
+    color: blue;
+    font-family: serif;
+}
+h2 {
+    color:black;
+    font-family: serif;
+    font-style: italic;
+}
+.p_two {
+    font-family:cursive;
+    font-size: larger;
+}
 .item {
     background-color: #fff;
             margin: 10px 0;
